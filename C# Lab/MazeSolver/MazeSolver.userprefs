@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{ED8C3334-7C93-461E-AF91-51D89A9BDACD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MazeSolver/Program.cs">
+    <Files>
+      <File FileName="MazeSolver/Program.cs" Line="235" Column="1" />
+      <File FileName="MazeSolver/maze1.txt" Line="10" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MazeSolver PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

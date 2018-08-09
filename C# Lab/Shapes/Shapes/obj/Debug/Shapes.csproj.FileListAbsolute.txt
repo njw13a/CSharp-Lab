@@ -1,0 +1,6 @@
+C:\Users\Nicholas Weg\Google Drive\C# Lab\Shapes\Shapes\bin\Debug\Shapes.dll.config
+C:\Users\Nicholas Weg\Google Drive\C# Lab\Shapes\Shapes\bin\Debug\Shapes.dll
+C:\Users\Nicholas Weg\Google Drive\C# Lab\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Nicholas Weg\Google Drive\C# Lab\Shapes\Shapes\obj\Debug\Shapes.dll
+C:\Users\Nicholas Weg\Google Drive\C# Lab\Shapes\Shapes\obj\Debug\Shapes.pdb
+C:\Users\Nicholas Weg\Google Drive\C# Lab\Shapes\Shapes\bin\Debug\Shapes.exe.config

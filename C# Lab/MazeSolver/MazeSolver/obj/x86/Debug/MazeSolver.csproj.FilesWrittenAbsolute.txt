@@ -1,0 +1,5 @@
+/Users/nicholasweg/Google Drive/C# Lab/MazeSolver/MazeSolver/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/nicholasweg/Google Drive/C# Lab/MazeSolver/MazeSolver/bin/Debug/MazeSolver.exe.mdb
+/Users/nicholasweg/Google Drive/C# Lab/MazeSolver/MazeSolver/bin/Debug/MazeSolver.exe
+/Users/nicholasweg/Google Drive/C# Lab/MazeSolver/MazeSolver/obj/x86/Debug/MazeSolver.exe
+/Users/nicholasweg/Google Drive/C# Lab/MazeSolver/MazeSolver/obj/x86/Debug/MazeSolver.exe.mdb

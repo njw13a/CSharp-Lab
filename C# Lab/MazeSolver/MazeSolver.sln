@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeSolver", "MazeSolver\MazeSolver.csproj", "{ED8C3334-7C93-461E-AF91-51D89A9BDACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED8C3334-7C93-461E-AF91-51D89A9BDACD}.Debug|x86.ActiveCfg = Debug|x86
+		{ED8C3334-7C93-461E-AF91-51D89A9BDACD}.Debug|x86.Build.0 = Debug|x86
+		{ED8C3334-7C93-461E-AF91-51D89A9BDACD}.Release|x86.ActiveCfg = Release|x86
+		{ED8C3334-7C93-461E-AF91-51D89A9BDACD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
